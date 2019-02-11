@@ -3,3 +3,14 @@ img{
 	float: left;
 	margin: 1.66%;
 }
+
+p{
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	margin-left: 1.66%;
+	font-weight: 600;
+	text-transform: uppercase;
+	border-bottom: 1px solid #ea5050;
+	width: 30%;
+	padding-bottom: 20px;
+}
